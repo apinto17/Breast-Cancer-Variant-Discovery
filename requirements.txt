@@ -1,0 +1,6 @@
+cutadapt==5.1
+cyvcf2==0.31.1
+matplotlib==3.10.1
+multiqc==1.29
+pandas==2.2.3
+
